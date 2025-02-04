@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hi there we are FiSe CodeForge 🐧🦜💻
+## What we do
+Create fun and intersting ptoject, cause programming is fun 👩‍💻
+## Where we are
+childhood friends from the north who enjoy software engineering and made it our profession.
+
+[FinnyChSt](https://github.com/FinnyChSt) 
+
+[nii42](https://github.com/nii42)
+
+
+![DALL·E 2025-02-04 22 18 05 - A vibrant, cartoonish illustration with a Pixar-like feel, featuring a focused penguin seated on the left and an inquisitive budgie perched on the rig](https://github.com/user-attachments/assets/929e8116-b5cb-44dd-9693-d8c5256245f2)
 
 <!--
 
